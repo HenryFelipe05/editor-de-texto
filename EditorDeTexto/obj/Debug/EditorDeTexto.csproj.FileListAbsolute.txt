@@ -1,0 +1,7 @@
+C:\OneDrive\Área de Trabalho\Balta\Editor de Texto\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+C:\OneDrive\Área de Trabalho\Balta\Editor de Texto\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\OneDrive\Área de Trabalho\Balta\Editor de Texto\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\OneDrive\Área de Trabalho\Balta\Editor de Texto\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.AssemblyReference.cache
+C:\OneDrive\Área de Trabalho\Balta\Editor de Texto\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\OneDrive\Área de Trabalho\Balta\Editor de Texto\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+C:\OneDrive\Área de Trabalho\Balta\Editor de Texto\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
